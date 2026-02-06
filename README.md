@@ -1,5 +1,5 @@
 # 💫 About Me:
-University projects & learning data structures<br>Python, Java and Cloud Computing<br>Open source student projects<br>Software Engineering or my journey at UNAL<br>I never stop being curious about how things work!
+University projects <br>Python and Java <br>Open source student projects<br>Software Engineering <br>I never stop being curious about how things work!
 
 
 # 💻 Tech Stack:
