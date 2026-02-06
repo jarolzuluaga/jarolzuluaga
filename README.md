@@ -1,5 +1,5 @@
 # 💫 About Me:
-University projects <br>Python and Java <br>Open source student projects<br>Software Engineering <br>I never stop being curious about how things work!
+University projects <br>Python and Java <br>Open source student projects<br>Software Engineering 
 
 
 # 💻 Tech Stack:
