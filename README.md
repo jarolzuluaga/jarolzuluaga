@@ -3,12 +3,13 @@
 ### A passionate developer from around the world
 
 
+- 📍 Based in Bogotá, DC
 
 - 🔭 I'm currently working on **University projects**
 
-- 🌱 I'm currently learning **Python and Java**
+- 📊 I'm currently learning **Python and Java**
 
-- 👯 I'm looking to collaborate on **Open source student projects**
+- 🎯 I'm looking to collaborate on **Open source student projects**
 
 - 💬 Ask me about **Software Engineering**
 
