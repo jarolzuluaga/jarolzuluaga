@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-- 🚀 Aspiring Software Enginee
+- 🚀 Aspiring Software Engineer
 - 📍 Based in Bogotá, DC
 - 📊 Python & Java
 - 🔭 Contributor to Open Source & Student Initiatives
