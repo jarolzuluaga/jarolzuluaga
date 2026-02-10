@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarolzuluaga&label=Profile views&color=0e75b6&style=flat" alt="jarolzuluaga" /> </p>
+
 
 - 🔭 I'm currently working on **University projects**
 
